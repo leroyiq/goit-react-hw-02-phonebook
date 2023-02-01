@@ -20,6 +20,7 @@
   height: 20px;
   font-size: 18px;
   margin-bottom: 20px;
+  border-radius: 5px;
 }
 
 .inputStyle:hover,
@@ -32,8 +33,6 @@
 .inputStyle:focus-visible {
   outline: none;
 }
-
-
 
 .addButton {
   width: 100px;
